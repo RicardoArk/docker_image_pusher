@@ -1,3 +1,4 @@
 nacos/nacos-server:v2.3.2
 nacos/nacos-server:2.0.3
 eolinker/apinto-gateway:latest
+wurstmeister/kafka:2.13-2.8.0
