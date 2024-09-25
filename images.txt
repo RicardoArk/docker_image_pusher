@@ -1,1 +1,1 @@
-quay.io/coreos/etcd:v3.4.13
+docker.io/bitnami/etcd:3.5.16-debian-12-r1
