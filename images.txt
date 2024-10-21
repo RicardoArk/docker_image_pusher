@@ -1,1 +1,1 @@
-docker.io/bitnami/etcd:3.5.16-debian-12-r1
+calico/cni:v3.9.6
