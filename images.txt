@@ -1,2 +1,1 @@
-bitnami/kafka:3.6.1
-
+mysql:5.7
